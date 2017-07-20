@@ -16,5 +16,6 @@ Better proxy support
 Auto like and auto comment on new posts for specified users
 Unfollow individual users
 Unfollow users while follow bot is running
+Like/Comment on a certain # of posts
 Refactor code
 ```
