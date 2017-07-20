@@ -3,14 +3,14 @@ InstaFame is an open-source instagram bot that automates actions such as likes, 
 
 ![Alt text](http://i.imgur.com/hbWTHkO.png "")
 
-Dev-Log
+Dev-Log:
 ```
 No proxy support [Future update]
 For the best performance set the Timeout to 60-100+
 There will be some bugs [Project is still in beta testing stages]
 ```
 
-Next Update Notes
+Next Update:
 ```
 Better proxy support
 Auto like and auto comment on new posts for specified users
