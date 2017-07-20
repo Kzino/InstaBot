@@ -3,9 +3,9 @@ InstaFame is an open-source instagram bot that automates actions such as likes, 
 
 Dev-Log
 ```
-Proxies will most likely not work in this current update.
-Set the interval to 50+ for best performance & to not get blocked by instagram
-For testing interval should be set at 10+ (not for botting)
+No proxy support [Future update]
+For the best performance set the interval to 60-100+
+There will be some bugs [Project is still in beta testing stages]
 ```
 
 Next Update Notes
