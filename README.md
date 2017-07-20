@@ -1,6 +1,8 @@
 # InstaFame
 InstaFame is an open-source instagram bot that automates actions such as likes, follows, and comments to help you gain real followers
 
+![Alt text](http://i.imgur.com/hbWTHkO.png "")
+
 Dev-Log
 ```
 No proxy support [Future update]
