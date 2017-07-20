@@ -1,0 +1,34 @@
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\obj\Debug\InstaFame.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\obj\Debug\InstaFame.Forms.MainForm.resources
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\obj\Debug\InstaFame.Properties.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\obj\Debug\InstaFame.csproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\bin\Debug\InstaFame.exe.config
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\bin\Debug\InstaFame.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\bin\Debug\InstaFame.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\obj\Debug\InstaFame.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\obj\Debug\InstaFame.pdb
+C:\Users\chris\Documents\GitHub\InstaFame\InstaFame\InstaFame\bin\Debug\InstaFame.exe.config
+C:\Users\chris\Documents\GitHub\InstaFame\InstaFame\InstaFame\bin\Debug\InstaFame.exe
+C:\Users\chris\Documents\GitHub\InstaFame\InstaFame\InstaFame\bin\Debug\InstaFame.pdb
+C:\Users\chris\Documents\GitHub\InstaFame\InstaFame\InstaFame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\Documents\GitHub\InstaFame\InstaFame\InstaFame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\Documents\GitHub\InstaFame\InstaFame\InstaFame\obj\Debug\InstaFame.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\InstaFame\InstaFame\InstaFame\obj\Debug\InstaFame.Forms.MainForm.resources
+C:\Users\chris\Documents\GitHub\InstaFame\InstaFame\InstaFame\obj\Debug\InstaFame.Properties.Resources.resources
+C:\Users\chris\Documents\GitHub\InstaFame\InstaFame\InstaFame\obj\Debug\InstaFame.csproj.GenerateResource.Cache
+C:\Users\chris\Documents\GitHub\InstaFame\InstaFame\InstaFame\obj\Debug\InstaFame.exe
+C:\Users\chris\Documents\GitHub\InstaFame\InstaFame\InstaFame\obj\Debug\InstaFame.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\InstaFame\bin\Debug\InstaFame.exe.config
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\InstaFame\bin\Debug\InstaFame.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\InstaFame\bin\Debug\InstaFame.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\InstaFame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\InstaFame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\InstaFame\obj\Debug\InstaFame.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\InstaFame\obj\Debug\InstaFame.Forms.MainForm.resources
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\InstaFame\obj\Debug\InstaFame.Properties.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\InstaFame\obj\Debug\InstaFame.csproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\InstaFame\obj\Debug\InstaFame.exe
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\InstaFame\obj\Debug\InstaFame.pdb
+C:\Users\chris\Documents\Visual Studio 2017\Projects\InstaFame\InstaFame\InstaFame\bin\Debug\System.ValueTuple.dll
