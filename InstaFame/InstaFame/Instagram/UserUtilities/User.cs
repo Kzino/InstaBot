@@ -86,6 +86,7 @@ namespace InstaFame.Instagram.UserUtilities
 
         public List<string> GetRecentPosts(int count = 3, string proxy = "")
         {
+            //TODO: implement count.
             int c = Helpers.GetPostCount(Username);
             if (count > c)
             {
@@ -114,7 +115,6 @@ namespace InstaFame.Instagram.UserUtilities
             string pattern = "\"code\": \"(.*?)\"";
             foreach (Match item in (new Regex(pattern).Matches(responseString)))
             {
-                Console.WriteLine($"post: https://www.instagram.com/p/{item.Groups[1].Value}/");
                 posts.Add($"https://www.instagram.com/p/{item.Groups[1].Value}/");
             }
             return posts;

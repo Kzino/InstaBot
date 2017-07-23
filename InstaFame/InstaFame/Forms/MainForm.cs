@@ -16,7 +16,12 @@ namespace InstaFame.Forms
     {
         /*
             TODO:
-            ~ Proxy Support?
+            ~ Better Proxy Support
+            ~ Auto-Like & Auto-Comment 
+            ~ Implement Post Count When Fetching Posts. / Like+Comment On Certain # Of Posts
+            ~ Refactor Messy Code
+            ~ Unfollow Individual Users
+            ~ Unfollow Users While Worker IsBusy
         */
 
         private string username, followedFile, proxy;
@@ -528,13 +533,13 @@ namespace InstaFame.Forms
 
             if (ofd.ShowDialog() == DialogResult.OK)
             {
-                new Task(() =>
+                new Thread(() =>
                 {
                     foreach (string fileName in ofd.FileNames)
                     {
                         proxies.AddRange(File.ReadAllLines(fileName));
                     }
-                }).RunSynchronously();
+                }).Start();
             }
         }
 
@@ -550,7 +555,11 @@ namespace InstaFame.Forms
                 proxyIndex = proxyIndex + 1;
                 return proxies[proxyIndex];
             }
-            return string.Empty;
+            else
+            {
+                proxyIndex = -1;
+                return string.Empty;
+            }
         }
     }
 }
